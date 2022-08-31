@@ -11,6 +11,7 @@ TODO
 # Полезные материалы
 * https://www.boost.org/doc/libs/1_75_0/doc/html/boost_asio.html - документация boost asio
 * https://habr.com/ru/post/192284/ - серия статей на хабре про boost asio
-* https://habr.com/ru/post/683204/ - пост про CMake
+* https://habr.com/ru/post/683204/
+* https://habr.com/ru/post/461817/
 * https://github.com/kornelski/libjpeg/blob/master/libjpeg.doc - документация libjpeg
 * https://habr.com/ru/post/206264/ - просто интересный пост про JPEG
